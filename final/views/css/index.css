@@ -1,0 +1,192 @@
+html{
+    width: 100%;
+}
+body {
+    background-color: #f8f9fa;
+    width:100%;
+    margin: 0 auto;
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+    Font-Size: 17px;
+}
+
+.jumbotron{
+    font-family: 'Bree Serif', serif;
+}
+
+.title {
+    font-family: 'Bree Serif', serif;
+    font-size: 7.5vw;
+}
+
+h2 {
+    font-family: 'Bree Serif', serif;
+}
+h3 {
+    font-family: 'Bree Serif', serif;
+    font-size: 42px !important;
+
+}
+h4 {
+    font-family: 'Bree Serif', serif;
+}
+
+h1 {
+    font-family: 'Bree Serif', serif;
+}
+
+.carousel-item {
+    height: 100vh;
+    background: center center scroll;
+    background-size: cover;
+}
+
+.first-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.452);
+    bottom: initial;
+    /*margin-left:300px;
+    margin-right:300px;
+    margin-bottom:370px;
+    height:260px;
+    width: 680px; */
+}
+
+.lead {
+    padding-top: 5px;
+    padding-left:10px;
+    padding-right: 10px;
+}
+
+.other-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.452);
+    bottom: initial;
+    right: 58%;
+    max-width: 500px;
+    left: auto;
+    top: 30%;
+    padding: 10px;
+    /* background-color: rgba(0, 0, 0, 0.45);
+    margin-left:50px;
+    margin-right:850px;
+    margin-bottom:620px;
+    height: 180px;
+    width: 420px; */
+}
+
+.navbar {
+    background-color: rgb(185, 185, 185, 0.95) ;
+}
+
+.navbar-brand{
+    font-size:23px;
+    font-family:'Bree Serif', serif;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.nav-link:hover{
+    color: white !important;
+}
+
+.nav-select{
+    color:white;
+}
+
+#underline {
+    text-decoration: underline;
+    color: black
+}
+
+#underline:hover{
+    color:slategrey;
+}
+
+.explore{
+    filter:grayscale(100%);
+}
+
+footer {
+    margin-top:0;
+    padding-top: 35px;
+    color:slategrey;
+    padding-left: 50px;
+    background-color: rgba(232, 236, 241, 1);
+    padding-bottom: 40px;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    margin: 10px 0;
+}
+
+hr {
+    margin-top:100px;
+    height:3px;
+    background-color:rgba(232, 236, 241, 150);
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    margin-top: 56px;
+    background-color: white;
+}
+
+.collection {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.likeCount {
+    margin-right: 5px;
+    color: red;
+}
+
+.aboutMe {
+    padding-bottom:300px;
+}
+
+.aboutBg {
+    background-image: url('../images/background2.jpg');
+    height: 100%;
+    background-position: 0 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutText {
+    background-color: rgba(49, 49, 49, 0.678) ;
+    padding:30px;
+    max-height:371px;
+    line-height: 1.65;
+    color:white;
+}
+
+.portrait {
+    max-width:100%;
+    float: left;
+}
+
+.form-group{
+    margin-bottom:30px;
+}
+
+.soon {
+    margin-right: 100px;
+    margin-left: 5px;
+    width:80px;
+    text-align: left;
+    display:none;
+}
+
+.card{
+    font-size:15px;
+}
