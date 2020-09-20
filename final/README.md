@@ -19,7 +19,7 @@ Front-end look of a simple website to display a person's crafts.  Webiste involv
 ![Image of Landing Page](https://github.com/MasonCollett/Woodworks/blob/master/final/views/images/contactReadMe.png)
 
 ## Future Improvement
-* Backend database with items
+* Create database with items to populate Collection page
 * Selecting an item pulls up an item page
 * Contact Me page submits to an actual email
 * Use templates for header and footer
