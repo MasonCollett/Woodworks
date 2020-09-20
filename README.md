@@ -1,6 +1,8 @@
 # Woodworks
 Front-end look of a simple website to display a person's crafts.  Webiste involves significant use of Bootstrap, with minor Javascript in its current stage. Created for Web Development final project.
 
+Website can be seen here: http://web.engr.oregonstate.edu/~colletma/final/views/landing.html
+
 ## Landing Page 
 ![Image of Landing Page](https://github.com/MasonCollett/Woodworks/blob/master/final/views/images/landingReadMe.png)
 * Images slide on bootstrap carousel
