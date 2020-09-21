@@ -1,5 +1,5 @@
 # Woodworks
-Front-end look of a simple website to display a person's crafts.  Webiste involves significant use of Bootstrap, with minor Javascript in its current stage. Created for Web Development final project.
+Front-end look of a simple website to display a person's crafts.  Webiste involves significant use of Bootstrap, with minor Javascript in its current stage. Created for Web Development final project.  Website currently contains placeholder images and text, courtesy of "Doggo Ipsum".
 
 Website can be seen here: http://web.engr.oregonstate.edu/~colletma/final/views/landing.html
 
